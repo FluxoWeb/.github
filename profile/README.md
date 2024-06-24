@@ -1,5 +1,7 @@
 # FluxoWeb
 
+<img src="https://i.postimg.cc/h4dg7Mps/portada.jpg">
+
 Bienvenidos a **FluxoWeb**. Somos una empresa especializada en el desarrollo de sistemas y aplicaciones web, móviles y de escritorio. Nuestra misión es proporcionar soluciones tecnológicas innovadoras y de alta calidad que ayuden a nuestros clientes a alcanzar sus objetivos.
 
 ## ¿Quiénes somos?
