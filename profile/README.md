@@ -46,7 +46,7 @@ Visita nuestra página web para más información: [FluxoWeb](https://fluxoweb.n
 Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos:
 
 - **Email**: 
-  - flujo@fluxoweb.net
+  - fluxo@fluxoweb.net
   - oscar.ramirez@fluxoweb.net
   - alberto.servin@fluxoweb.net
 - **Teléfono**: +595 992 277 533
