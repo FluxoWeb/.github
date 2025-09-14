@@ -49,7 +49,6 @@ Si tienes alguna pregunta o necesitas más información, no dudes en contactarno
   - fluxo@fluxoweb.net
   - oscar.ramirez@fluxoweb.net
   - alberto.servin@fluxoweb.net
-  - santiago.galeano@fluxoweb.net
 - **Teléfono**: +595 992 277 533
 - **Dirección**: Ciudad Del Este, Alto Paraná, Paraguay
 
